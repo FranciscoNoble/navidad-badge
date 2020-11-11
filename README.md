@@ -1,6 +1,6 @@
 ## Navidad PCB Badge (simp model) ##
 
-![Navidad PCB Badge (simp model)] (https://github.com/GuriDev/navidad-badge/blob/main/images/Gadin.png?raw=true)
+![Insp] (https://github.com/GuriDev/navidad-badge/blob/main/images/Gadin.png?raw=true)
 
 ## Schematics ##
 ![eletric](https://github.com/GuriDev/navidad-badge/blob/main/images/Schematic.png?raw=true) | ![PCB](https://github.com/GuriDev/navidad-badge/blob/main/images/S.png?raw=true)
