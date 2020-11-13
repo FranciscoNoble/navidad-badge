@@ -1,4 +1,4 @@
-## Navidad PCB Badge (simp model) ##
+##CyberSimp PCB Badge##
 
 ![base](https://github.com/GuriDev/navidad-badge/blob/main/images/Gadin.png?raw=true)
 
