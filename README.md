@@ -1,4 +1,4 @@
-##CyberSimp PCB Badge##
+## CyberSimp PCB Badge ##
 
 ![base](https://github.com/GuriDev/navidad-badge/blob/main/images/Gadin.png?raw=true)
 
@@ -12,3 +12,6 @@
 
 
 This PCB is free for use, print and modifications. Use however you want
+
+This Project are Sponsored by JLCPCB, they make amazing and high-quality PCBs for a low price
+Visit: jlcpcb.com 
